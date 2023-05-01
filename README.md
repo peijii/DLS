@@ -14,11 +14,11 @@ Code for the model in the paper Domain Generalization by Dynamic Label Smoothing
 
 # Function of file
 
-* `a-layered-sensor-unit/main_experiment/model/ml/`
-  * train machine learning model (XGBoost, SVM, RandomForest, KNN).
-* `a-layered-sensor-unit/main_experiment/model/dl/model.py`
-  * Generate sEMG-FMG LFN model, sEMG LFN model and FMG LFN model.
+* `Domain-Generalization-by-Dynamic-Label-Smoothing-Strategy-for-Biosignal-Classification/`
+  * train model.
+* `Domain-Generalization-by-Dynamic-Label-Smoothing-Strategy-for-Biosignal-Classification/`
+  * Generate model.
 
 # Usage
-We've offered three models:  `sEMG-FMG LayerFusionModel` , `sEMG LayerFusionModel` and `FMG LayerFusionModel` for dual modal (sEMG and FMG) and single modal (sEMG or FMG) respectively.
+We've offered three models:  `Model1` , `Model2` and `Model3`
 You need to use a tensor with shape: **[Batch_size, channel, length]** for all the three models.
