@@ -1,1 +1,1 @@
-# Intra--and-Inter-Channel-Convolutional-Network-for-Multichannel-Biological-Signals-Analysis
+# Domain-Generalization-by-Dynamic-Label-Smoothing-Strategy-for-Biosignals-Classification
