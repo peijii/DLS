@@ -4,7 +4,7 @@ Code for the model in the paper Dynamic Label Smoothing Strategy for Biosignals 
 
 # Datasets
 
->We evaluate the performance of our proposed dynamic label smoothing strategy on NinaPro DB1 datasets, which are open-access databases of Electromyography (EMG) recordings. Information on how to obtain it can be found [here](http://ninapro.hevs.ch/node/3).
+>We evaluate the performance of our proposed dynamic label smoothing strategy on NinaPro DB1 datasets, which are open-access databases of Electromyography (EMG) recordings. Information on how to obtain it can be found [here](https://ninapro.hevs.ch/instructions/DB1.html).
 
 # Requirements
 
