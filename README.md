@@ -1,5 +1,5 @@
 # Dynamic Label Smoothing Strategy for Biosignals Classification
-Code for the model in the paper Dynamic Label Smoothing Strategy for Biosignals Classification
+Code for the model in the paper Dynamic Label Smoothing Strategy for Biosignals Classification. The detailed code now available [here](https://ninapro.hevs.ch/instructions/DB1.html).
 ![overall structure](figure/framework.png)
 
 # Datasets
