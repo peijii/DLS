@@ -22,4 +22,4 @@ Code for the model in the paper Dynamic Label Smoothing Strategy for Biosignals 
   * label adjustor: The final component of our framework is the Label Adjustor, which utilizes the features extracted by the Feature Extractor to adjust the true labels. The purpose of this component is to enable the Feature Extractor to learn both inter-and inter- samples differences, thus improving the model's generalization ability. In cases where the input data contains noise, the Label Adjustor can help maintain or even enhance the model's performance by refining the true label based on t
 
 # Citation 
-- **Download the ISRUC-S3 Dataset:**
+- **1.Download the ISRUC-S3 Dataset:**
