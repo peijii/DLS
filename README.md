@@ -25,13 +25,12 @@ Code for the model in the paper Dynamic Label Smoothing Strategy for Biosignals 
 If you find this useful, please cite our work as follows:
 
 ```latex
-@ARTICLE{9530406,
-  author={Jia, Ziyu and Lin, Youfang and Wang, Jing and Ning, Xiaojun and He, Yuanlai and Zhou, Ronghao and Zhou, Yuhan and Lehman, Li-wei H.},
-  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
-  title={Multi-View Spatial-Temporal Graph Convolutional Networks With Domain Generalization for Sleep Stage Classification}, 
-  year={2021},
-  volume={29},
-  number={},
-  pages={1977-1986},
-  doi={10.1109/TNSRE.2021.3110665}}
+@inproceedings{chen2024dynamic,
+  title={Dynamic Label Smoothing Strategy for Biosignal Classification},
+  author={Chen, Peiji and Li, Dian and Tang, Yifan and Togo, Shunta and Yokoi, Hiroshi and Jiang, Yinlai},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1556--1560},
+  year={2024},
+  organization={IEEE}
+}
 ```
