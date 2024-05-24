@@ -19,7 +19,7 @@ Code for the model in the paper Dynamic Label Smoothing Strategy for Biosignals 
 * `DLS/models/label_predictor.py`
   * label predictor: The second component, the Label Predictor, is analogous to the classification layer found in traditional feedforward neural networks. It takes the features extracted by the Feature Extractor and performs classification tasks. The Label Predictor utilizes various activation functions and optimization techniques to map the extracted features to corresponding class labels.
 * `DLS/models/label_adjustor.py`
-  * label adjustor: The final component of our framework is the Label Adjustor, which utilizes the features extracted by the Feature Extractor to adjust the true labels. The purpose of this component is to enable the Feature Extractor to learn both inter-and inter- samples differences, thus improving the model's generalization ability. In cases where the input data contains noise, the Label Adjustor can help maintain or even enhance the model's performance by refining the true label based on t
+  * label adjustor: The final component of our framework is the Label Adjustor, which utilizes the features extracted by the Feature Extractor to adjust the true labels. The purpose of this component is to enable the Feature Extractor to learn both inter-and inter- samples differences, thus improving the model's generalization ability.
 
 # Citation 
 If you find this useful, please cite our work as follows:
